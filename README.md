@@ -1,6 +1,6 @@
 ## Exercice 03
 
-réécrire l'exercice JavaScript 24 an TypeScript.
+réécrire l'exercice JavaScript 24 en TypeScript.
 
 # Exercice 24 ***Structures de données***
 
